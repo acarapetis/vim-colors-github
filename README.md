@@ -1,8 +1,10 @@
 Github color scheme for vim
 ===========================
 
-I didn't write this. Can't find the original author. Contact me if it was you.
-I just need a repo to exist for Vundle.
+Derived from [Anthony Carapetis]' [vim-github-theme].
+
+[Anthony Carapetis]: https://github.com/acarapetis
+[vim-github-theme]: http://www.vim.org/scripts/script.php?script_id=2855
 
 Install
 -------
