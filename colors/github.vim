@@ -25,6 +25,7 @@ hi DiffText     guifg=#000033 ctermfg=17   guibg=#DDDDFF ctermbg=189  gui=NONE c
 hi DiffDelete   guifg=#DDCCCC ctermfg=252  guibg=#FFDDDD ctermbg=224  gui=NONE cterm=NONE
 hi Folded       guifg=#808080 ctermfg=244  guibg=#ECECEC ctermbg=255  gui=NONE cterm=NONE
 hi LineNr       guifg=#BBBBBB ctermfg=250  guibg=#ECECEC ctermbg=255  gui=NONE cterm=NONE
+hi CursorLineNr guifg=#BBBBBB ctermfg=250  guibg=#D8D8DD ctermbg=253  gui=NONE cterm=NONE
 hi NonText      guifg=#808080 ctermfg=244  guibg=#ECECEC ctermbg=255  gui=NONE cterm=NONE
 hi VertSplit    guifg=#BBBBBB ctermfg=250  guibg=#BBBBBB ctermbg=250  gui=NONE cterm=NONE
 hi StatusLine   guifg=#404040 ctermfg=238  guibg=#BBBBBB ctermbg=250  gui=BOLD cterm=BOLD
@@ -73,5 +74,6 @@ hi htmlTagN     gui=BOLD cterm=BOLD
 hi Cursor       guifg=#F8F8FF ctermfg=231  guibg=#444454 ctermbg=238  gui=NONE cterm=NONE
 hi CursorLine   guibg=#D8D8DD ctermbg=253  gui=NONE cterm=NONE
 hi CursorColumn guibg=#D8D8DD ctermbg=253  gui=NONE cterm=NONE
+hi ColorColumn  guibg=#D8D8DD ctermbg=253  gui=NONE cterm=NONE
 
 hi link rubyStringDelimiter String
