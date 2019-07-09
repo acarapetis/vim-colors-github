@@ -5,7 +5,7 @@ Source code for [vim-github-theme].
 
 [vim-github-theme]: http://www.vim.org/scripts/script.php?script_id=2855
 
-This is a port of GitHub's lovely light-background syntax highlighting theme.
+This is a port of GitHub's lovely light-background syntax highlighting theme, as it was in 2009.
 It is as comprehensive as possible.
 It should look good with:
 
